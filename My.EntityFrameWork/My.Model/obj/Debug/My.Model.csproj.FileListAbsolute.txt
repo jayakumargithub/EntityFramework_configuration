@@ -1,0 +1,5 @@
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.Model\bin\Debug\My.Model.dll
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.Model\bin\Debug\My.Model.pdb
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.Model\obj\Debug\My.Model.dll
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.Model\obj\Debug\My.Model.pdb
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.Model\obj\Debug\My.Model.csprojResolveAssemblyReference.cache

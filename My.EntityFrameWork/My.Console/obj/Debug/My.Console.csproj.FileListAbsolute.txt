@@ -1,0 +1,14 @@
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.Console\bin\Debug\My.Console.exe.config
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.Console\bin\Debug\My.Console.exe
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.Console\bin\Debug\My.Console.pdb
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.Console\bin\Debug\EntityFramework.dll
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.Console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.Console\bin\Debug\My.EntityFrameWork.dll
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.Console\bin\Debug\My.Model.dll
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.Console\bin\Debug\My.EntityFrameWork.pdb
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.Console\bin\Debug\My.Model.pdb
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.Console\bin\Debug\EntityFramework.xml
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.Console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.Console\obj\Debug\My.Console.csprojResolveAssemblyReference.cache
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.Console\obj\Debug\My.Console.exe
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.Console\obj\Debug\My.Console.pdb

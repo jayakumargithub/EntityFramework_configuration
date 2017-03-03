@@ -1,0 +1,14 @@
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.EntityFrameWork\bin\Debug\My.EntityFrameWork.dll.config
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.EntityFrameWork\bin\Debug\My.EntityFrameWork.dll
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.EntityFrameWork\bin\Debug\My.EntityFrameWork.pdb
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.EntityFrameWork\bin\Debug\EntityFramework.dll
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.EntityFrameWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.EntityFrameWork\bin\Debug\My.Model.dll
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.EntityFrameWork\bin\Debug\My.Model.pdb
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.EntityFrameWork\bin\Debug\EntityFramework.xml
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.EntityFrameWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.EntityFrameWork\obj\Debug\My.EntityFrameWork.csprojResolveAssemblyReference.cache
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.EntityFrameWork\obj\Debug\My.EntityFrameWork.dll
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.EntityFrameWork\obj\Debug\My.EntityFrameWork.pdb
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.EntityFrameWork\obj\Debug\My.EntityFrameWork.Migrations.Initialsetup.resources
+C:\Projects\EntityFrameworkTrail\My.EntityFrameWork\My.EntityFrameWork\obj\Debug\My.EntityFrameWork.csproj.GenerateResource.Cache
